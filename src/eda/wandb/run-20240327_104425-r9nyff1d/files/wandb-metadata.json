@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-03-27T17:44:25.867013",
+    "startedAt": "2024-03-27T17:44:25.059372",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "eda.ipynb",
+    "root": "/home/rmuno/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/raqmun92/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "host": "LAPTOP-EJJV42F1",
+    "username": "rmuno",
+    "executable": "/home/rmuno/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 19.878196716308594
+    },
+    "memory": {
+        "total": 3.753978729248047
+    }
+}

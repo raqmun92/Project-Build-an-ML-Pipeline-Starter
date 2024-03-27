@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48248d669cfc4726bdeac0f5691e3d5c/artifacts
+end_time: 1711561156305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48248d669cfc4726bdeac0f5691e3d5c
+run_name: bouncy-hawk-231
+run_uuid: 48248d669cfc4726bdeac0f5691e3d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711560906445
+status: 3
+tags: []
+user_id: rmuno

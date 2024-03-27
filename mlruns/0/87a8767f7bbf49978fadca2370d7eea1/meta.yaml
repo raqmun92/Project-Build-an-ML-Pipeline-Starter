@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/87a8767f7bbf49978fadca2370d7eea1/artifacts
+end_time: 1711561155130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87a8767f7bbf49978fadca2370d7eea1
+run_name: traveling-calf-131
+run_uuid: 87a8767f7bbf49978fadca2370d7eea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711561018250
+status: 3
+tags: []
+user_id: rmuno

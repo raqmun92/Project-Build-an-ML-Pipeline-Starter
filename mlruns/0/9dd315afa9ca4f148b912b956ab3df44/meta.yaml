@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9dd315afa9ca4f148b912b956ab3df44/artifacts
+end_time: 1711572633835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dd315afa9ca4f148b912b956ab3df44
+run_name: omniscient-hawk-961
+run_uuid: 9dd315afa9ca4f148b912b956ab3df44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711572245851
+status: 3
+tags: []
+user_id: rmuno

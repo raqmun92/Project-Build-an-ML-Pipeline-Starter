@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3bdd888f7bb1443a9e1f48fc2b2416a0/artifacts
+end_time: 1711581111899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bdd888f7bb1443a9e1f48fc2b2416a0
+run_name: amusing-mare-72
+run_uuid: 3bdd888f7bb1443a9e1f48fc2b2416a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711581001559
+status: 3
+tags: []
+user_id: rmuno

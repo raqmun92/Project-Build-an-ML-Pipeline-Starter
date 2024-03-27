@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6581466fe5a6402fa66834a999d19c34/artifacts
+end_time: 1711576683396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6581466fe5a6402fa66834a999d19c34
+run_name: nebulous-hen-405
+run_uuid: 6581466fe5a6402fa66834a999d19c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711576421046
+status: 4
+tags: []
+user_id: rmuno

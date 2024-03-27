@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d64ff155a37b43839c7c2f9d44a138ff/artifacts
+end_time: 1711578152233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d64ff155a37b43839c7c2f9d44a138ff
+run_name: peaceful-fly-163
+run_uuid: d64ff155a37b43839c7c2f9d44a138ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711578110900
+status: 4
+tags: []
+user_id: rmuno

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/41e34b3e61f146359e9e1ad2d63e289f/artifacts
+end_time: 1711581341634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41e34b3e61f146359e9e1ad2d63e289f
+run_name: unequaled-shoat-92
+run_uuid: 41e34b3e61f146359e9e1ad2d63e289f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711581192828
+status: 3
+tags: []
+user_id: rmuno

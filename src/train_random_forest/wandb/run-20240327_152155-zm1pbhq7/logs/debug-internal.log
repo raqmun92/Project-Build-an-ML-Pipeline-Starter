@@ -1,0 +1,71 @@
+2024-03-27 15:21:55,080 INFO    StreamThr :13233 [internal.py:wandb_internal():87] W&B internal server running at pid: 13233, started at: 2024-03-27 15:21:55.079542
+2024-03-27 15:21:55,082 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status
+2024-03-27 15:21:55,084 INFO    WriterThread:13233 [datastore.py:open_for_write():85] open: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/run-zm1pbhq7.wandb
+2024-03-27 15:21:55,085 DEBUG   SenderThread:13233 [sender.py:send():334] send: header
+2024-03-27 15:21:55,090 DEBUG   SenderThread:13233 [sender.py:send():334] send: run
+2024-03-27 15:21:55,522 INFO    SenderThread:13233 [dir_watcher.py:__init__():216] watching files in: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files
+2024-03-27 15:21:55,522 INFO    SenderThread:13233 [sender.py:_start_run_threads():1065] run started: zm1pbhq7 with start time 1711578115.077045
+2024-03-27 15:21:55,523 DEBUG   SenderThread:13233 [sender.py:send_request():361] send_request: summary_record
+2024-03-27 15:21:55,523 INFO    SenderThread:13233 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-03-27 15:21:55,524 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: check_version
+2024-03-27 15:21:55,525 DEBUG   SenderThread:13233 [sender.py:send_request():361] send_request: check_version
+2024-03-27 15:21:55,693 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: run_start
+2024-03-27 15:21:55,694 DEBUG   HandlerThread:13233 [system_info.py:__init__():31] System info init
+2024-03-27 15:21:55,694 DEBUG   HandlerThread:13233 [system_info.py:__init__():46] System info init done
+2024-03-27 15:21:55,694 INFO    HandlerThread:13233 [system_monitor.py:start():151] Starting system monitor
+2024-03-27 15:21:55,695 INFO    SystemMonitor:13233 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-03-27 15:21:55,695 INFO    HandlerThread:13233 [system_monitor.py:probe():172] Collecting system info
+2024-03-27 15:21:55,696 INFO    SystemMonitor:13233 [interfaces.py:start():168] Started cpu
+2024-03-27 15:21:55,698 INFO    SystemMonitor:13233 [interfaces.py:start():168] Started disk
+2024-03-27 15:21:55,698 INFO    SystemMonitor:13233 [interfaces.py:start():168] Started memory
+2024-03-27 15:21:55,699 INFO    SystemMonitor:13233 [interfaces.py:start():168] Started network
+2024-03-27 15:21:55,701 DEBUG   HandlerThread:13233 [system_info.py:probe():195] Probing system
+2024-03-27 15:21:55,737 DEBUG   HandlerThread:13233 [system_info.py:_probe_git():180] Probing git
+2024-03-27 15:21:55,746 DEBUG   HandlerThread:13233 [system_info.py:_probe_git():188] Probing git done
+2024-03-27 15:21:55,746 DEBUG   HandlerThread:13233 [system_info.py:probe():241] Probing system done
+2024-03-27 15:21:55,746 DEBUG   HandlerThread:13233 [system_monitor.py:probe():181] {'os': 'Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.31', 'python': '3.9.19', 'heartbeatAt': '2024-03-27T22:21:55.701760', 'startedAt': '2024-03-27T22:21:55.058685', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/home/rmuno/Project-Build-an-ML-Pipeline-Starter/multirun/2024-03-27/15-21-50/0/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/raqmun92/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '362a2e0bd0cede6ecaad16f53e5e5d27f826de90'}, 'email': None, 'root': '/home/rmuno/Project-Build-an-ML-Pipeline-Starter', 'host': 'LAPTOP-EJJV42F1', 'username': 'rmuno', 'executable': '/home/rmuno/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 2400.007, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}, {'current': 2400.007, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 22.67617416381836}, 'memory': {'total': 3.753978729248047}}
+2024-03-27 15:21:55,746 INFO    HandlerThread:13233 [system_monitor.py:probe():182] Finished collecting system info
+2024-03-27 15:21:55,746 INFO    HandlerThread:13233 [system_monitor.py:probe():185] Publishing system info
+2024-03-27 15:21:55,746 DEBUG   HandlerThread:13233 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-03-27 15:21:55,747 DEBUG   HandlerThread:13233 [system_info.py:_save_pip():67] Saving pip packages done
+2024-03-27 15:21:55,747 DEBUG   HandlerThread:13233 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-03-27 15:21:56,524 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_created():275] file/dir created: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/requirements.txt
+2024-03-27 15:21:56,525 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_created():275] file/dir created: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/conda-environment.yaml
+2024-03-27 15:21:56,525 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_created():275] file/dir created: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/wandb-summary.json
+2024-03-27 15:21:57,316 DEBUG   HandlerThread:13233 [system_info.py:_save_conda():86] Saving conda packages done
+2024-03-27 15:21:57,317 INFO    HandlerThread:13233 [system_monitor.py:probe():187] Finished publishing system info
+2024-03-27 15:21:57,320 DEBUG   SenderThread:13233 [sender.py:send():334] send: files
+2024-03-27 15:21:57,320 INFO    SenderThread:13233 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-03-27 15:21:57,330 DEBUG   SenderThread:13233 [sender.py:send():334] send: telemetry
+2024-03-27 15:21:57,333 DEBUG   SenderThread:13233 [sender.py:send():334] send: config
+2024-03-27 15:21:57,338 DEBUG   SenderThread:13233 [sender.py:send():334] send: config
+2024-03-27 15:21:57,338 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: stop_status
+2024-03-27 15:21:57,340 DEBUG   SenderThread:13233 [sender.py:send_request():361] send_request: stop_status
+2024-03-27 15:21:57,527 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/conda-environment.yaml
+2024-03-27 15:21:57,528 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_created():275] file/dir created: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/wandb-metadata.json
+2024-03-27 15:21:57,959 INFO    Thread-16 :13233 [upload_job.py:push():143] Uploaded file /tmp/tmp7d37ir0uwandb/j7fhda6x-wandb-metadata.json
+2024-03-27 15:21:58,032 DEBUG   SenderThread:13233 [sender.py:send():334] send: use_artifact
+2024-03-27 15:21:58,528 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_created():275] file/dir created: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/output.log
+2024-03-27 15:22:00,515 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:00,528 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/output.log
+2024-03-27 15:22:05,516 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:10,516 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:12,327 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: keepalive
+2024-03-27 15:22:15,517 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:17,328 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: keepalive
+2024-03-27 15:22:20,518 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:22,329 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: keepalive
+2024-03-27 15:22:25,526 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:26,541 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/config.yaml
+2024-03-27 15:22:27,331 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: keepalive
+2024-03-27 15:22:30,542 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/output.log
+2024-03-27 15:22:31,705 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: status_report
+2024-03-27 15:22:32,038 DEBUG   HandlerThread:13233 [handler.py:handle_request():144] handle_request: log_artifact
+2024-03-27 15:22:32,038 DEBUG   SenderThread:13233 [sender.py:send_request():361] send_request: log_artifact
+2024-03-27 15:22:32,544 INFO    Thread-13 :13233 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240327_152155-zm1pbhq7/files/output.log
+2024-03-27 15:22:33,418 INFO    Thread-19 :13233 [upload_job.py:push():101] Uploaded file /home/rmuno/.local/share/wandb/artifacts/staging/tmppcn0onhf
+2024-03-27 15:22:33,432 INFO    Thread-20 :13233 [upload_job.py:push():101] Uploaded file /home/rmuno/.local/share/wandb/artifacts/staging/tmp_33uzma2
+2024-03-27 15:22:33,433 INFO    Thread-18 :13233 [upload_job.py:push():101] Uploaded file /home/rmuno/.local/share/wandb/artifacts/staging/tmpblw6c0g9
+2024-03-27 15:22:33,442 INFO    Thread-23 :13233 [upload_job.py:push():101] Uploaded file /home/rmuno/.local/share/wandb/artifacts/staging/tmpzwvo5bfx
+2024-03-27 15:22:33,445 INFO    Thread-22 :13233 [upload_job.py:push():101] Uploaded file /home/rmuno/.local/share/wandb/artifacts/staging/tmp3mtk0fxp
+2024-03-27 15:22:33,703 INFO    MainThread:13233 [internal.py:handle_exit():77] Internal process exited

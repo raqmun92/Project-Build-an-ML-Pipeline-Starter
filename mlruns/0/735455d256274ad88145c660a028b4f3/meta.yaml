@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/735455d256274ad88145c660a028b4f3/artifacts
+end_time: 1711577953709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 735455d256274ad88145c660a028b4f3
+run_name: colorful-asp-977
+run_uuid: 735455d256274ad88145c660a028b4f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711577912112
+status: 4
+tags: []
+user_id: rmuno

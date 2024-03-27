@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9e6019806a4413d8f17678a8a20c327/artifacts
+end_time: 1711578152705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9e6019806a4413d8f17678a8a20c327
+run_name: honorable-shark-736
+run_uuid: b9e6019806a4413d8f17678a8a20c327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711578107805
+status: 4
+tags: []
+user_id: rmuno

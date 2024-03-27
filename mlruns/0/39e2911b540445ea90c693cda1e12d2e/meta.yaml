@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/39e2911b540445ea90c693cda1e12d2e/artifacts
+end_time: 1711576686025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39e2911b540445ea90c693cda1e12d2e
+run_name: luxuriant-zebra-50
+run_uuid: 39e2911b540445ea90c693cda1e12d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711576416823
+status: 4
+tags: []
+user_id: rmuno

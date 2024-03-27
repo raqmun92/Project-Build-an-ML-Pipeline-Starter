@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f76e5f2d3d044bbb5cc1e59b92b3739/artifacts
+end_time: 1711580243142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f76e5f2d3d044bbb5cc1e59b92b3739
+run_name: indecisive-worm-380
+run_uuid: 1f76e5f2d3d044bbb5cc1e59b92b3739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711580200824
+status: 4
+tags: []
+user_id: rmuno

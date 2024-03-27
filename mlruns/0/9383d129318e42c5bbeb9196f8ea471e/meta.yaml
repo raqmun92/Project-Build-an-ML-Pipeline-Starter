@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9383d129318e42c5bbeb9196f8ea471e/artifacts
+end_time: 1711580561469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9383d129318e42c5bbeb9196f8ea471e
+run_name: incongruous-roo-868
+run_uuid: 9383d129318e42c5bbeb9196f8ea471e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711580511775
+status: 4
+tags: []
+user_id: rmuno

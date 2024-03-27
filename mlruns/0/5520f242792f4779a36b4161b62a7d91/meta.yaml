@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5520f242792f4779a36b4161b62a7d91/artifacts
+end_time: 1711576858611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5520f242792f4779a36b4161b62a7d91
+run_name: bedecked-goat-933
+run_uuid: 5520f242792f4779a36b4161b62a7d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711576804766
+status: 4
+tags: []
+user_id: rmuno

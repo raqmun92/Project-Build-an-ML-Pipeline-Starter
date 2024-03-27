@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03a9adcd218f41a7bf544664ab56cb2c/artifacts
+end_time: 1711577463515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03a9adcd218f41a7bf544664ab56cb2c
+run_name: aged-slug-810
+run_uuid: 03a9adcd218f41a7bf544664ab56cb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711577416060
+status: 4
+tags: []
+user_id: rmuno

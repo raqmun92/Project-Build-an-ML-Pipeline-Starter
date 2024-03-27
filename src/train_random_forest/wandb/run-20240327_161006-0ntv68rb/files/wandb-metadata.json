@@ -1,0 +1,92 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-03-27T23:10:07.290871",
+    "startedAt": "2024-03-27T23:10:06.631827",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/rmuno/Project-Build-an-ML-Pipeline-Starter/multirun/2024-03-27/16-08-53/1/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/home/rmuno/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/raqmun92/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "362a2e0bd0cede6ecaad16f53e5e5d27f826de90"
+    },
+    "email": null,
+    "root": "/home/rmuno/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LAPTOP-EJJV42F1",
+    "username": "rmuno",
+    "executable": "/home/rmuno/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.007,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 22.71286392211914
+    },
+    "memory": {
+        "total": 3.753978729248047
+    }
+}

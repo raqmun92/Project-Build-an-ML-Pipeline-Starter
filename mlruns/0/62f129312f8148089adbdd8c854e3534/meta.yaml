@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/62f129312f8148089adbdd8c854e3534/artifacts
+end_time: 1711577954132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62f129312f8148089adbdd8c854e3534
+run_name: languid-carp-528
+run_uuid: 62f129312f8148089adbdd8c854e3534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711577908847
+status: 4
+tags: []
+user_id: rmuno

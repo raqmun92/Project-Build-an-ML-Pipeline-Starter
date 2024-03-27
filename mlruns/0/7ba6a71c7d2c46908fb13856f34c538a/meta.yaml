@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7ba6a71c7d2c46908fb13856f34c538a/artifacts
+end_time: 1711576017147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba6a71c7d2c46908fb13856f34c538a
+run_name: brawny-slug-278
+run_uuid: 7ba6a71c7d2c46908fb13856f34c538a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711576005777
+status: 4
+tags: []
+user_id: rmuno

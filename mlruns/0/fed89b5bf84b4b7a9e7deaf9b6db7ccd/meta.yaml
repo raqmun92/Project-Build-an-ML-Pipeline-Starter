@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fed89b5bf84b4b7a9e7deaf9b6db7ccd/artifacts
+end_time: 1711567050695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fed89b5bf84b4b7a9e7deaf9b6db7ccd
+run_name: fortunate-sheep-345
+run_uuid: fed89b5bf84b4b7a9e7deaf9b6db7ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711566982539
+status: 3
+tags: []
+user_id: rmuno

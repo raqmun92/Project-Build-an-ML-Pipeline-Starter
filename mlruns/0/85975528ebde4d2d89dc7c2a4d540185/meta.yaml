@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85975528ebde4d2d89dc7c2a4d540185/artifacts
+end_time: 1711571186795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85975528ebde4d2d89dc7c2a4d540185
+run_name: omniscient-cat-109
+run_uuid: 85975528ebde4d2d89dc7c2a4d540185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711571090569
+status: 3
+tags: []
+user_id: rmuno

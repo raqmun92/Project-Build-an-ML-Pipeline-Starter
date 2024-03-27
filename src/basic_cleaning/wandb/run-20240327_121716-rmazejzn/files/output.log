@@ -1,0 +1,4 @@
+2024-03-27 12:17:18,216 Fetching raw dataset.
+2024-03-27 12:17:19,415 Drop outliers
+2024-03-27 12:17:19,436 Convert last_review column to datetime
+2024-03-27 12:17:19,447 Saving and exporting cleaned data.

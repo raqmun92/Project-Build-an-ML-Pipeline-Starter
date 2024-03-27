@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0cd2469bfaad4621ac6e8ace699876bc/artifacts
+end_time: 1711567050376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd2469bfaad4621ac6e8ace699876bc
+run_name: tasteful-shark-919
+run_uuid: 0cd2469bfaad4621ac6e8ace699876bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711566987354
+status: 3
+tags: []
+user_id: rmuno

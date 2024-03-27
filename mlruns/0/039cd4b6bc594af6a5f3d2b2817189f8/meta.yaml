@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/039cd4b6bc594af6a5f3d2b2817189f8/artifacts
+end_time: 1711571187402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 039cd4b6bc594af6a5f3d2b2817189f8
+run_name: spiffy-shoat-291
+run_uuid: 039cd4b6bc594af6a5f3d2b2817189f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711571079505
+status: 3
+tags: []
+user_id: rmuno

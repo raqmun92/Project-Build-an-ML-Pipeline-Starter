@@ -139,6 +139,16 @@ you can get a list of the environments you are about to remove by executing:
 > conda info --envs | grep mlflow | cut -f1 -d" "
 ```
 
+If you are ok with that list, execute this command to clean them up:
+
+**_NOTE_**: this will remove *ALL* the environments with a name starting with `mlflow`. Use at your own risk
+
+```
+> for e in $(conda info --envs | grep mlflow | cut -f1 -d" "); do conda uninstall --name $e --all -y;done
+```
+
+This will iterate over all the environments created by `mlflow` and remove them.
+
 Also, when running the testing portion of the pipeline, it's possible to get the following error:
 
 ```
@@ -152,17 +162,7 @@ I was able to fix it by entering the following code into the command line:
 ```
  export QT_QPA_PLATFORM=offscreen 
 ```
-
-If you are ok with that list, execute this command to clean them up:
-
-**_NOTE_**: this will remove *ALL* the environments with a name starting with `mlflow`. Use at your own risk
-
-```
-> for e in $(conda info --envs | grep mlflow | cut -f1 -d" "); do conda uninstall --name $e --all -y;done
-```
-
-This will iterate over all the environments created by `mlflow` and remove them.
-
+Keep in mind that this fix can affect QT plugins that affect graphical features.
 
 ## License
 

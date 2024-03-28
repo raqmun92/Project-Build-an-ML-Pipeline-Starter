@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa7a2722c2c94ae3b0eef11b8a07ff0f/artifacts
+end_time: 1711583226653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa7a2722c2c94ae3b0eef11b8a07ff0f
+run_name: burly-shark-377
+run_uuid: aa7a2722c2c94ae3b0eef11b8a07ff0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711583089081
+status: 3
+tags: []
+user_id: rmuno

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ca52eede6a64723b5f2dc4b464dfa94/artifacts
+end_time: 1711585682489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca52eede6a64723b5f2dc4b464dfa94
+run_name: popular-crab-896
+run_uuid: 4ca52eede6a64723b5f2dc4b464dfa94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711585658708
+status: 3
+tags: []
+user_id: rmuno

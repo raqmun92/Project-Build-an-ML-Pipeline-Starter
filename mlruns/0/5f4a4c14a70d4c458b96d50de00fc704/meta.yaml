@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f4a4c14a70d4c458b96d50de00fc704/artifacts
+end_time: 1711586207118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f4a4c14a70d4c458b96d50de00fc704
+run_name: respected-skunk-878
+run_uuid: 5f4a4c14a70d4c458b96d50de00fc704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711585641019
+status: 3
+tags: []
+user_id: rmuno

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c9e194829c0f40dc9f3039895d173df3/artifacts
+end_time: 1711585658691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e194829c0f40dc9f3039895d173df3
+run_name: receptive-bat-198
+run_uuid: c9e194829c0f40dc9f3039895d173df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711585646504
+status: 3
+tags: []
+user_id: rmuno

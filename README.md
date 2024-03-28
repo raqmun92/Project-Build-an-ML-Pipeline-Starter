@@ -6,6 +6,9 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+Link to my Github repository:
+https://github.com/raqmun92/Project-Build-an-ML-Pipeline-Starter.git
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)

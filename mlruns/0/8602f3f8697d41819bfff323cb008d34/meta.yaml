@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8602f3f8697d41819bfff323cb008d34/artifacts
+end_time: 1711584650343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8602f3f8697d41819bfff323cb008d34
+run_name: industrious-asp-585
+run_uuid: 8602f3f8697d41819bfff323cb008d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711584584702
+status: 4
+tags: []
+user_id: rmuno

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5e246b7848c6434d84a9ceb6e3a5cfd8/artifacts
+end_time: 1711584636469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e246b7848c6434d84a9ceb6e3a5cfd8
+run_name: bouncy-snake-139
+run_uuid: 5e246b7848c6434d84a9ceb6e3a5cfd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711584613591
+status: 3
+tags: []
+user_id: rmuno

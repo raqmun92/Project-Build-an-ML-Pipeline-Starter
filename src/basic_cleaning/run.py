@@ -39,6 +39,11 @@ def go(args):
     logger.info('Convert last_review column to datetime')
     df['last_review'] = pd.to_datetime(df['last_review'])
 
+
+    # Make sure latitude and longitude fall within specific ranges
+    idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
+    df = df[idx].copy()
+
     # Save the cleaned data
     logger.info('Saving and exporting cleaned data.')
     df.to_csv('clean_sample.csv', index=False)

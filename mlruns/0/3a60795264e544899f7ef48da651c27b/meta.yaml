@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rmuno/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3a60795264e544899f7ef48da651c27b/artifacts
+end_time: 1711584613575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a60795264e544899f7ef48da651c27b
+run_name: enchanting-bug-384
+run_uuid: 3a60795264e544899f7ef48da651c27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711584591757
+status: 3
+tags: []
+user_id: rmuno
